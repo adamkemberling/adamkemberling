@@ -1,6 +1,6 @@
 ### Hi, I'm Adam 👋
 
-I am a quantitative research associate working with the Gulf of Maine Research Institute in Portland Maine. I work in the Integrated Systems Ecology Lab led by Dr. Kathy Mills focusing on the distillation of climate and fisheries data to understand how the rapid and projected warming affects the ecosystem, fisheries, and coastal communities. I also track the sea surface patterns in the [Gulf of Maine.](https://adamkemberling.github.io/oisst_mainstays/R/markdown_reports/GOM_Annual_Report.html)
+I am a quantitative research associate working with the Gulf of Maine Research Institute in Portland Maine. I work in the Integrated Systems Ecology Lab led by Dr. Kathy Mills focusing on the distillation of climate and fisheries data to understand how the rapid and projected warming affects the ecosystem, fisheries, and coastal communities. I also track and [visualize the sea surface temperature trends in the Gulf of Maine.](https://adamkemberling.github.io/oisst_mainstays/R/markdown_reports/GOM_Annual_Report.html)
 
 I work primarily in R, but I prefer python for some of my current projects involving large multi-dimensional arrays like CMIP model scenarios. I enjoy using data science tools like shiny and quarto to tell the stories of data around fisheries and climate change. I see a lot of value in giving the audience an opportunity to explore their own questions with the available information, as I believe it fosters a better understanding of the complex interactions at play.
 
